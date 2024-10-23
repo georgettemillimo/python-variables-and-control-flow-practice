@@ -1,6 +1,6 @@
 # creation of variables a and b and allocation of values
-a = 10
-b = 5
+a = 23
+b = 8
 
 # Perform arithmetics operations and print results
 print("Addition:", a + b)
